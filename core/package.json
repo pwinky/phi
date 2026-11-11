@@ -1,0 +1,11 @@
+{
+  "name": "@phi/core",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "exports": "./dist/index.js",
+  "files": ["dist"],
+  "devDependencies": {
+    "shadow-cljs": "3.5.13"
+  }
+}
